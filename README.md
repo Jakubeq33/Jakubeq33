@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jakubeq33/Jakubeq33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm <b>Kubusieq</b>! 👋</h1>
+<b>⚡ Backend & Frontend Developer</b><br/>
+<a href="https://github.com/Kubusieq" target="_blank">@Kubusieq</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do 💻
+Programming • Electronics • CyberSecurity<br/>
+
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,css,html,js,kali&perline=8" alt="Skills" />
+
+<br/>
+
+### Still learning ✨
+
+
+---
+
+### Stats 📊
+<img src="https://github-readme-stats.vercel.app/api?username=Kubusieq&show_icons=true&theme=dracula" alt="GitHub Stats" /><br/><br/>
+<img src="https://streak-stats.demolab.com?user=Kubusieq&theme=dracula" alt="GitHub Streak" /><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubusieq&layout=compact&theme=dracula" alt="Top Languages" />
+
+---
+
+### Contact 👁️
+Discord: <code>kubusieq0</code><br/>
+
+<br/>
+I learn from my mistakes 🐉
+
+</div>
