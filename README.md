@@ -17,7 +17,7 @@ Programming • Electronics • CyberSecurity<br/>
 <br/>
 
 ### Still learning ✨
-
+<img src="https://skillicons.dev/icons?i=c,jsva&perline=8" alt="Skills" />
 
 ---
 
