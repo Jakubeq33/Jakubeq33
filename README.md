@@ -17,14 +17,12 @@ Programming • Electronics • CyberSecurity<br/>
 <br/>
 
 ### Still learning ✨
-<img src="https://skillicons.dev/icons?i=cpp,java,arduino&perline=8" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=cpp,java,arduino, &perline=8" alt="Skills" />
 
 ---
 
 ### Stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=Kubusieq&show_icons=true&theme=dracula" alt="GitHub Stats" /><br/><br/>
 <img src="https://streak-stats.demolab.com?user=Kubusieq&theme=dracula" alt="GitHub Streak" /><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubusieq&layout=compact&theme=dracula" alt="Top Languages" />
 
 ---
 
