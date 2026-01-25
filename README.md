@@ -22,7 +22,7 @@ Programming • Electronics • CyberSecurity<br/>
 ---
 
 ### Stats 📊
-<img src="https://streak-stats.demolab.com?user=Kubusieq&theme=dracula" alt="GitHub Streak" /><br/><br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jakubeq33&theme=dark" alt="GitHub Streak" /></a>
 
 ---
 
