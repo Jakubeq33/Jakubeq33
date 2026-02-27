@@ -1,8 +1,7 @@
 # 💫 About Me:
 🔭 Currently working on:
 1. 4rchRobot
-2. Raven
-3. SmartHome features
+2. SmartHome features
 
 
 # 💻 Tech Stack:
