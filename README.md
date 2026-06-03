@@ -1,5 +1,3 @@
-<div align="center">
-
 # 😼 About Me:
 
 ```ts
@@ -9,6 +7,8 @@ def Kubusieq0():
   print("Passion: electronics <3"),
   print("Contact: soon...")
 ```
+
+<div align="center">
 
 # 📋 Languages:
 
