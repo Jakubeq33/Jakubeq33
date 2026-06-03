@@ -1,4 +1,6 @@
+<div align="center">
 # 😼 About Me:
+</div>
 
 ```ts
 def Kubusieq0():
